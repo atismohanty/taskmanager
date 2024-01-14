@@ -1,0 +1,15 @@
+{
+    "dbConnection": {
+        "type":"postgres",
+        "host":"localhost",
+        "port":5432,
+        "username":"postgres",
+        "password":"8711",
+        "database":"postgres",
+        "entities":[],
+        "synchronize":true,
+        "autoLoadEntities" : true
+    },
+    "sessionSecret": "asasas-sasaad-133cvdfd-1555sdsdsd-1dsd43cfd",
+    "passWordEncypSalt": "rzVh1z6Qtq2aJ5MHNIe5Ou"
+}
